@@ -1,6 +1,6 @@
 
 <img src="https://media.licdn.com/dms/image/D4E16AQHcrHKV7-TmRQ/profile-displaybackgroundimage-shrink_350_1400/0/1710362140722?e=1724889600&v=beta&t=Lh2qiDTjUzV_4ne5hzKKA_w78Rceg0wrKRXWA1QKux8" alt="Banner" height="300" width="fit-content">
-<h1 align="center">Hi 👋🏿, I'm Kayode Oseni</h1>
+<h1 align="center">Hi, I'm Kayode Oseni</h1>
 <h3 align="center">I am looking to contribute, learn, and build great relationships!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kosenijr&label=Profile%20views&color=0e75b6&style=flat" alt="kosenijr" /> </p>
