@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/iamkayodeoseni" target="blank"><img src="https://img.shields.io/twitter/follow/iamkayodeoseni?logo=twitter&style=for-the-badge" alt="iamkayodeoseni" /></a> </p>
 
-<div>
-  <img src="https://camo.githubusercontent.com/09dd76e1e288dff6786a5941cc63bdfcb9b3c66df110a57a429901cc7528c527/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f38313333372f73637265656e73686f74732f313839393232312f6d656469612f62306337633361363738313064313235383766393239316235336630623066612e676966" alt="Cube" height="fit-content" width="fit-content">
+<div style="height: 2vh; width: 2vw">
+  <img src="https://camo.githubusercontent.com/09dd76e1e288dff6786a5941cc63bdfcb9b3c66df110a57a429901cc7528c527/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f38313333372f73637265656e73686f74732f313839393232312f6d656469612f62306337633361363738313064313235383766393239316235336630623066612e676966" alt="Cube" height="" width="fit-content">
 </div>
 
 <div> 
