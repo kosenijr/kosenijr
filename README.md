@@ -10,7 +10,7 @@
 
 - 🌱 I’m experienced in **C++, JavaScript, React, and Node.js**
 
-- 💬 Ask me about **ways I can help you.**
+- 💬 Message me about **ways I can help you.**
 
 - 📫 How to reach me: **k.oseni.jr@gmail.com**.
 
