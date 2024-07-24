@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/iamkayodeoseni" target="blank"><img src="https://img.shields.io/twitter/follow/iamkayodeoseni?logo=twitter&style=for-the-badge" alt="iamkayodeoseni" /></a> </p>
 
 
-- 🌱 I’m currently learning **C++, JavaScript, React, and Node.js to improve my contributions.**
+- 🌱 I’m experienced in **C++, JavaScript, React, and Node.js**
 
 - 💬 Ask me about **ways I can help you.**
 
