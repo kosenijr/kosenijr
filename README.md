@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1COArpMZw5JKyiBiepi6KEdCROkccnVui" alt="city-bridge" style="width: fit-content; height: auto;">
+<img src="https://drive.google.com/uc?export=view&id=1grqKLSVOINSl9d5h89sjJr2pMH_ALwRp" alt="city-bridge" style="width: fit-content; height: auto;">
 <h1 align="center">Hi, I'm Kayode Oseni</h1>
 <h3 align="center">I am looking to contribute, learn, and build great relationships!</h3>
 
